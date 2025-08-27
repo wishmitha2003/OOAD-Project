@@ -6,7 +6,7 @@ export const HeroSection = () => {
     <section className="relative w-full bg-gradient-to-br from-[#2E7D32]/90 to-[#1B5E20] text-white overflow-hidden">
       {/* Background Image Overlay */}
       <div 
-        className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80')] bg-cover bg-center opacity-10" 
+        className="absolute inset-0 bg-[url('https://i.pinimg.com/736x/80/37/22/803722e97b803f5d5f53e101d45bf2d5.jpg')] bg-cover bg-center opacity-10" 
         aria-hidden="true"
       ></div>
 

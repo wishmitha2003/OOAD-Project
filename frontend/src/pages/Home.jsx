@@ -11,12 +11,12 @@ import { Footer } from '../components/Footer';
 export const Home = () => {
   return (
     <div >
-      <Header />
+     
       <HeroSection />
       <ProductCategories />
       <FeaturedProducts />
       <AboutSection />
-      <Footer />
+     
     </div>
   );
 };

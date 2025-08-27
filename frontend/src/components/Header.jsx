@@ -3,9 +3,9 @@ import { Menu, X, ShoppingCart, User } from 'lucide-react';
 
 // Logo Component
 const Logo = () => (
-  <div className="text-2xl font-bold flex items-center">
+  <div className="text-4xl font-bold flex items-center">
     <span className="text-[#2E7D32]">Gen</span>
-    <span className="text-[#2196F3]">Z</span>
+    <span className="text-[#2E7D32]">Z</span>
     <span className="text-[#2E7D32]">sport</span>
   </div>
 );
@@ -37,11 +37,11 @@ export const Header = () => {
 
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center space-x-8">
-          <NavLink href="#" label="Home" active />
+          <NavLink href="/" label="Home" active />
           <NavLink href="#" label="Shop" />
-          <NavLink href="#" label="Categories" />
-          <NavLink href="#" label="About" />
-          <NavLink href="#" label="Contact" />
+          <NavLink href="/Categories" label="Categories" />
+          <NavLink href="/about" label="About" />
+          <NavLink href="/Contact" label="Contact" />
         </nav>
 
         {/* Desktop Icons */}

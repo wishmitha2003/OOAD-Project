@@ -17,9 +17,7 @@ export const AboutSection = () => {
           {/* Text Content */}
           <div className="order-2 lg:order-1">
             <h2 className="text-3xl font-bold mb-6 text-gray-900">
-              About <span className="text-[#2E7D32]">Gen</span>
-              <span className="text-[#2196F3]">Z</span>
-              <span className="text-[#2E7D32]">sport</span>
+              About <span className="text-[#2E7D32]">GenZsport</span>
             </h2>
             <p className="text-gray-700 mb-6">
               Founded with a mission to revolutionize sports equipment for the

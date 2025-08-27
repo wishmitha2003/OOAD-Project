@@ -73,7 +73,7 @@ export const FeaturedProducts = () => {
       price: 34.99,
       rating: 4.6,
       image:
-        'https://images.unsplash.com/photo-1565693413579-8a73ffa6c6ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdpNtnMFG2AyOaCmzIA1wdfeYHsVNfGyPmlq0rhxVYpD7F_hWV48zF2Gz4o33PtL0ESw&usqp=CAU',
       badge: 'Best Seller',
     },
     {
@@ -91,7 +91,7 @@ export const FeaturedProducts = () => {
       price: 49.99,
       rating: 4.7,
       image:
-        'https://images.unsplash.com/photo-1581344569698-bfb0905273a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
+        'https://harris-active.co.uk/cdn/shop/products/Men-Performance-SS-top-black-JPEG_1500x.jpg?v=1598711223',
       badge: 'Sale',
     },
   ];
