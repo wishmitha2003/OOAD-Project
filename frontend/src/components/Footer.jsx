@@ -87,18 +87,18 @@ export const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-start gap-3">
                 <Mail size={18} className="text-[#2E7D32] flex-shrink-0 mt-1" />
-                <span className="text-gray-400">support@genzsport.com</span>
+                <span className="text-gray-400">onlinegenzsport@gmail.com</span>
               </li>
               <li className="flex items-start gap-3">
                 <PhoneCall size={18} className="text-[#2E7D32] flex-shrink-0 mt-1" />
-                <span className="text-gray-400">+1 (800) 123-4567</span>
+                <span className="text-gray-400">+94 77 417 6891</span>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-[#2E7D32] flex-shrink-0 mt-1" />
                 <span className="text-gray-400">
-                  123 Fitness Street
+                  Kaikawala,Induruwa
                   <br />
-                  Athletic City, AC 10001
+                  SriLanka
                 </span>
               </li>
             </ul>
