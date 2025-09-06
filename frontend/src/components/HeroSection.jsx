@@ -10,6 +10,7 @@ export const HeroSection = () => {
         aria-hidden="true"
       ></div>
 
+
       {/* Content */}
       <div className="container mx-auto px-4 py-16 md:py-24 lg:py-32 relative z-10">
         <div className="max-w-3xl">
